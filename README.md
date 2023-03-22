@@ -37,7 +37,6 @@
 
 # 📖 Software Dev Bootcamp<a name="about-project"></a>
 
-
 **This is a software i created that help in guiding people that want to learn coding in a professional way**
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -47,7 +46,6 @@
 3-LINTERS.
 
 ### Tech Stack <a name="tech-stack"></a>
-
 
 <details>
   <summary>Client</summary>
@@ -79,7 +77,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
@@ -117,7 +114,9 @@ Run this command:
 
 To run the project, execute the following command:
 
+```
 launch index.html using live server or live preview
+```
 
 ### Run tests
 
@@ -135,7 +134,6 @@ comming soon
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Muhammad Aminu Salihu**
 
 - GitHub: [@mohashyne](https://github.com/mohashyne)
@@ -147,7 +145,6 @@ comming soon
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
 
 - [ ] [Add Header]
 - [ ] [Add Main]
@@ -169,8 +166,6 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-
 
 If you like this project hit the like button
 
