@@ -35,8 +35,6 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Software Dev Bootcamp<a name="about-project"></a>
-
 **This is a software i created that help in guiding people that want to learn coding in a professional way**
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -176,8 +174,6 @@ If you like this project hit the like button
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I will like to thanks microverse and mosh hamedani for putting me through in this project.
-
-I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
