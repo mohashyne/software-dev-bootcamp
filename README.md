@@ -1,34 +1,7 @@
-# software-dev-bootcamp
-
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+ 
   <img src="./logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
@@ -64,7 +37,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Software Dev Bootcamp<a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **This is a software i created that help in guiding people that want to learn coding in a professional way**
 
@@ -76,7 +48,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -90,7 +61,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 > Added index.html file.
 > Added style.css file.
 
@@ -110,7 +80,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -166,14 +135,12 @@ comming soon
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Muhammad Aminu Salihu**
 
 - GitHub: [@mohashyne](https://github.com/mohashyne)
 - Twitter: [@muhammadslyhu](https://twitter.com/muhammadslyhu)
 - LinkedIn: [muhammad-salihu-27467a165](https://linkedin.com/in/muhammad-salihu-27467a165)
-<!--
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,7 +148,6 @@ comming soon
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] [Add Header]
 - [ ] [Add Main]
@@ -204,9 +170,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+
+If you like this project hit the like button
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -214,7 +180,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> I will like to thanks microverse and mosh hamedani for putting me through in this project.
+I will like to thanks microverse and mosh hamedani for putting me through in this project.
 
 I would like to thank...
 
@@ -225,7 +191,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
